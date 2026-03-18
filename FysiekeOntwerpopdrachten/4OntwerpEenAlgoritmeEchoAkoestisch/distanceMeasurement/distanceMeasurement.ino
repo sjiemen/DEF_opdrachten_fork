@@ -23,8 +23,8 @@
 #define echoPin 6
 
 //the calibration constants
-#define alpha 0.0347
-#define beta -1.0
+#define alpha 0.03688
+#define beta -13.43215
 
 void setup() {
   Serial.begin (9600);
